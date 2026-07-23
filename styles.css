@@ -2,8 +2,11 @@ h1{
   text-align:center;
   font-family:san-serif,impact;
 }
+p{
+  text-align:center;
+}
 body{
-  background-color:blue;
+  background-color:grey;
   background-image:church-line-svgrepo-com;
 }
 #messages{
